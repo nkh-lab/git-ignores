@@ -1,0 +1,15 @@
+# Files
+*.cflags
+*.config
+*.creator
+*.cxxflags
+*.files
+*.includes
+*.log
+*.swp
+*.user
+
+# Folders
+build/
+temp/
+tools/
