@@ -1,4 +1,5 @@
 # Files
+*.autosave
 *.cflags
 *.config
 *.creator
@@ -12,4 +13,3 @@
 # Folders
 build/
 temp/
-tools/
