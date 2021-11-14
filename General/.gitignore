@@ -30,3 +30,11 @@ local.properties
 .idea/
 build/
 captures/
+
+# VisualStudioCode #
+
+# Files
+.project
+
+# Folders
+.settings/
